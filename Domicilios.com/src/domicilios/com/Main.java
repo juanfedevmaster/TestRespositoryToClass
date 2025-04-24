@@ -18,6 +18,7 @@ public class Main extends javax.swing.JFrame {
         initComponents();
         domicilio = new Domicilio();
         this.desktopPane.add(domicilio);
+        var stringCambio = "";
     }
 
     /**
