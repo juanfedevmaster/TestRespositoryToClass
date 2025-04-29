@@ -9,5 +9,7 @@ package domicilios.com;
  * @author jufeq
  */
 public class Example {
-    
+    public void exampleMethod(){
+        System.out.println("Example Print");
+    }
 }
